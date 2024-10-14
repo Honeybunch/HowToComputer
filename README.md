@@ -25,12 +25,12 @@ Quick Definitions:
 #### How do I navigate to a new directory?
 Select the `directory` and hit `enter` to make your selection the new current directory
 
-![Animated gif showing how to open a directory](https://github.com/user-attachments/assets/af15f6fa-d33f-4e4c-8401-0c3f20f8acde)
+![Opening a directory](https://github.com/user-attachments/assets/af15f6fa-d33f-4e4c-8401-0c3f20f8acde)
 
 #### How do I open a directory in a new explorer window?
-`ctrl+enter` will open the selected `directories` in their own `explorer` window
+`ctrl+enter` or `ctrl+left-double-click` will open the selected `directories` in their own `explorer` window
 
-{{TODO: Gif}}
+![Opening a directory in a new window](https://github.com/user-attachments/assets/056a2826-5cba-4f05-9016-32cb0b913ccd)
 
 #### How do I navigate to the parent directory?
 `alt+up` will make the current `explorer` window navigate to the parent `directory`
