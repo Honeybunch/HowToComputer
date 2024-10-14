@@ -9,6 +9,13 @@
 With `Windows Explorer` AKA `Explorer` AKA `explorer.exe` the default windows file explorer
 
 {{TODO: Screenshot}}
+
+Quick Definitions:
+ * `file` - A basic unit of storage on a computer. It can contain a poem, a program, a picture of a cat or anything else you would find on a computer.
+ * `directory` - A "folder" that contain mutliple `files` and other `directories`. Useful for organizing files heirarchically
+ * `chord` - A combination of key presses. `ctrl+c` means holding down the `ctrl` ("Control") key and pressing the `c` key
+ * `disk` - The actual physical part of the computer where files live. Hard Disk Drives (HDDs), Solid State Drives (SSDs) and SD Cards are all `disks` to us
+ * `file path` - The path to a file. Where the file lives on `disk`. A text file can live at the path "C:\mydirectory\myfile.txt"
  
  --- 
  
