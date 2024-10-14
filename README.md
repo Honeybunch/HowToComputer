@@ -39,7 +39,7 @@ or
 
 `left-click` the up-facing arrow button in the top left of the `explorer` window
 
-{{TODO: Gif}}
+![Navigating to the parent directory with a hotkey](https://github.com/user-attachments/assets/e611f30d-3f29-4363-848f-34449bbe4daa)
 
 #### How do I go back to the previous directory?
 `alt+left` will make the current `explorer` window navigate to the previous `directory`
@@ -48,7 +48,7 @@ or
 
 `left-click` the left-facing arrow button in the top left of the `explorer` window
 
-{{TODO: Gif}}
+![Navigating to the previous directory with a hotkey](https://github.com/user-attachments/assets/6c747fd0-2706-4bd3-93a1-8c6e0e7a28f5)
 
 #### How do I go forward (after having gone back) 
 `alt+right` will make the current `explorer` window navigate to the "previous-previous" `directory`
@@ -57,7 +57,7 @@ or
 
 `left-click` the right-facing arrow button in the top left of the `explorer` window
 
-{{TODO: Gif}}
+![Navigating forwards and backwards with hotkeys](https://github.com/user-attachments/assets/6f16fa4f-b84d-4767-bb8c-f04204856be2)
 
 #### How do I find a directory by name
 From anywhere just hit the `Win` (Windows / Super) key to open the start menu and begin typing. Windows does try to index your files so you can search them from here. 
