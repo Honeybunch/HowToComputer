@@ -48,7 +48,8 @@ or
 
 `left-click` the left-facing arrow button in the top left of the `explorer` window
 
-![Navigating to the previous directory with a hotkey](https://github.com/user-attachments/assets/6c747fd0-2706-4bd3-93a1-8c6e0e7a28f5)
+![Navigating to the previous directory with a hotkey](https://github.com/user-attachments/assets/348d0142-f95e-4d6c-92a6-323d4bd83ebb)
+
 
 #### How do I go forward (after having gone back) 
 `alt+right` will make the current `explorer` window navigate to the "previous-previous" `directory`
