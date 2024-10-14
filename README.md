@@ -1,5 +1,5 @@
-# HowToComputer
-  A page you can send your friends so they learn how to use the most powerful device ever created. The goal of this document is to provide concise, instructional answers to answer basic "How Do I ...?" questions about how to operate a personal computer. 
+# How To Computer
+  A page you can send your friends so they learn how to use the most powerful device ever created. The goal of this document is to provide concise, instructional answers to basic "How Do I ...?" questions about how to operate a personal computer. 
 
   You've managed to find this page so we hope you understand at least some basic computing concepts. You know how to move the mouse, open a program, browse the web and use the keyboard at least enough to play Fornite or something. But you can do more. The personal computer is a marvel of human engineering and an extremely powerful tool for enacting your will on the world! It has unparalelled creative potential in almost every conceivable field in a way that mobile phones simply cannot match. While you certainly *can* edit video on a phone it is *much* faster to do so on a personal computer. Just from an ergonomics perspective smartphones cannot compete with a desktop or laptop computer. So this page is aiming to be a reference for folks new to driving a personal computer and want to be able to get their shit done faster. Even if you hate computers I hope you at least appreciate the prospect of getting your work on them done faster so you can get away from the cursed machine. 
 
