@@ -73,7 +73,7 @@ With an `explorer` window in focus you can just begin typing the name of the `fi
 #### How do I navigate to an arbitrary directory by path?
 In any explorer window hit `ctrl+l` to begin editing the path to the current `directory`. Just start typing in the path or begin editing the path. See `Text Editing` {{TODO: Create and link section}} for more
 
-{{TODO: Gif}}
+![Going to a path by name without using the mouse at all](https://github.com/user-attachments/assets/4a7822c7-bc4f-4e66-927c-1397df69eee4)
 
 ---
 
