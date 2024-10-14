@@ -6,9 +6,7 @@
 ## How do I use this document?
   This is intended to be read either in a top-down manner or via search. Use your browser's built-in search function by hitting the `ctrl+f` chord and typing. Can't find what you're looking for? Please make sure you looked first. Then, file an issue and tag it as a question. Feel free to file any complaints, suggestions or corrections as issues.
 
-## Navigation
-
-### How do I manage files
+## How do I manage files
 With `Windows Explorer` AKA `Explorer` AKA `explorer.exe` the default windows file explorer
 
 {{TODO: Screenshot}}
@@ -22,6 +20,62 @@ Quick Definitions:
  
  --- 
 
+### Navigation
+
+#### How do I navigate to a new directory?
+Select the `directory` and hit `enter` to make your selection the new current directory
+
+{{TODO: Gif}}
+
+#### How do I open a directory in a new explorer window?
+`ctrl+enter` will open the selected `directories` in their own `explorer` window
+
+{{TODO: Gif}}
+
+#### How do I navigate to the parent directory?
+`alt+up` will make the current `explorer` window navigate to the parent `directory`
+
+or 
+
+`left-click` the up-facing arrow button in the top left of the `explorer` window
+
+{{TODO: Gif}}
+
+#### How do I go back to the previous directory?
+`alt+left` will make the current `explorer` window navigate to the previous `directory`
+
+or
+
+`left-click` the left-facing arrow button in the top left of the `explorer` window
+
+{{TODO: Gif}}
+
+#### How do I go forward (after having gone back) 
+`alt+right` will make the current `explorer` window navigate to the "previous-previous" `directory`
+
+or
+
+`left-click` the right-facing arrow button in the top left of the `explorer` window
+
+{{TODO: Gif}}
+
+#### How do I find a directory by name
+From anywhere just hit the `Win` (Windows / Super) key to open the start menu and begin typing. Windows does try to index your files so you can search them from here. 
+
+{{TODO: Gif}}
+
+#### How do I find the file I'm looking for in a directory by name?
+With an `explorer` window in focus you can just begin typing the name of the `file` you're looking for and `explorer` will automatically begin navigating to files with names that start with the letters you've typed
+
+{{TODO: Gif}}
+
+#### How do I navigate to an arbitrary directory by path?
+In any explorer window hit `ctrl+l` to begin editing the path to the current `directory`. Just start typing in the path or begin editing the path. See `Text Editing` {{TODO: Create and link section}} for more
+
+{{TODO: Gif}}
+
+---
+
 ### Selection
 Picking files to operate on
 
@@ -33,6 +87,11 @@ Many applications also support these patterns. Give them a shot in your favorite
 {{TODO: Gif}}
 
 #### How do I open a file?
+With the `file` selected hit `enter` 
+
+{{TODO: Gif}}
+
+#### How do I open a file with the mouse?
 `left-click` the `file` twice (known as `double-clicking`) to open the `file` with its default application. Text files will open in Notepad, image files will open with the Photo Viewer, etc.
 
 {{TODO: Gif}}
@@ -53,13 +112,25 @@ Many applications also support these patterns. Give them a shot in your favorite
 
 {{TODO: Gif}}
 
+#### How do I open multiple files?
+Select one or more files and hit the `enter` key to open all selected fies in their default application. Warning: This can get hectic. 
+
+---
+
 ### Moving, Deleting, Copy-paste etc.
 Navigating the Windows shell
 
-#### How do I delete a file?
-The `delete` key can be used to move all currently selected files to the `Recycle Bin`
+#### How do I delete a file or directory?
+`delete` will move all currently selected files to the `Recycle Bin`
 
 {{TODO: Gif}}
+
+#### How do I delete a file or directory permanently without even sending it to the Recycle Bin?
+`shift+delete` will spawn a `dialog` that will confirm if you want to perform this action. Select "Yes" to permanently delete the selected `files` & `directories`.
+
+*THIS ACTION CANNOT BE UNDONE*
+
+Be careful not to sever the thread of fate
 
 #### How do I move a file?
 Open an `explorer` window to the directory that you want to move your file to.
@@ -90,10 +161,18 @@ The `F2` key will begin renaming a selected file. You can also begin renaming a 
 
 Recommended: `Show File Extensions`
 
-### Creating New Files
+---
+
+### Creating New Files & Directories
 
 #### How do I make a new directory?
-The fastest way is to `right-click` an empty area in the `explorer` window to bring up the `context-menu`, go to the `New` submenu and select `Folder`. The `directory` will be created and immediately enter naming mode. Hit the `Enter` or `Esc` key to just use the default name "New Folder" or type in a more descriptive name first. 
+`ctrl+shift+n` will create a new directory 
+
+or
+
+`right-click` an empty area in the `explorer` window to bring up the `context-menu`. Go to the `New` submenu and select `Folder`. 
+
+In either case the `directory` will be created and immediately enter naming mode. Hit the `Enter` or `Esc` key to just use the default name "New Folder" or type in a more descriptive name first. 
 
 {{TODO: Gif}}
 
@@ -125,6 +204,8 @@ Create a new text document and change the extension from `.txt` to your desired 
 
 {{TODO: Gif}}
 
+---
+
 ### Oops
 We all make mistakes. It would be crazy if there weren't ways to quickly correct them
 
@@ -145,6 +226,8 @@ You can also go to the `Recycle Bin` on your `Desktop`, `double-click` it to ope
 `Right-clicking` the file will bring up a `context-menu` with a `menu-item` titled `Restore` which will put the `file` back to where it was before it was deleted. 
 
 {{TODO: Gif]}
+
+---
 
 ## Details 
 
