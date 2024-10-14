@@ -9,7 +9,7 @@
 ## How do I manage files
 With `Windows Explorer` AKA `Explorer` AKA `explorer.exe` the default windows file explorer
 
-![image](https://github.com/user-attachments/assets/2f9a3060-3555-4c3e-b2e8-a61a7e7f30cb)
+![Windows desktop with a single open explorer window in the center](https://github.com/user-attachments/assets/2f9a3060-3555-4c3e-b2e8-a61a7e7f30cb)
 
 Quick Definitions:
  * `file` - A basic unit of storage on a computer. It can contain a poem, a program, a picture of a cat or anything else you would find on a computer.
@@ -25,7 +25,7 @@ Quick Definitions:
 #### How do I navigate to a new directory?
 Select the `directory` and hit `enter` to make your selection the new current directory
 
-{{TODO: Gif}}
+![Animated gif showing how to open a directory](https://github.com/user-attachments/assets/af15f6fa-d33f-4e4c-8401-0c3f20f8acde)
 
 #### How do I open a directory in a new explorer window?
 `ctrl+enter` will open the selected `directories` in their own `explorer` window
