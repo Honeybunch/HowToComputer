@@ -21,7 +21,12 @@ Quick Definitions:
  * `file path` - The path to a file. Where the file lives on `disk`. A text file can live at the path "C:\mydirectory\myfile.txt"
  
  --- 
- 
+
+### Selection
+Picking files to operate on
+
+Many applications also support these patterns. Give them a shot in your favorite program! They can't hurt you
+
 #### How do I select a file?
 `left-click` the `file` once to `select` it
 
@@ -35,7 +40,21 @@ Quick Definitions:
 #### How do I select multiple files?
 `left-click` and drag an area in the window without a file and drag to create a selection bounds, a box that will `select` every file within it when you release the `left-click`
 
+#### How do I select a range of files?
+`left-click` a file to select the start of the range and then `shift+left-click` to choose the file at the end of the range. All files in between will be selected
+
+#### How do I select an arbitrary set of files?
+`left-click` a file to select the first file and then `ctrl+left-click` to add or remove the file to the collection of selected files.
+
+#### How do I select *all* files in a directory?
+`ctrl+a` will select all files in the current directory
+
+`ctrl+a` is a common shortcut for a "Select All" operation in most applications
+
 {{TODO: Gif}}
+
+### Moving, Deleting, Copy-paste etc.
+Navigating the Windows shell
 
 #### How do I delete a file?
 The `delete` key can be used to move all currently selected files to the `Recycle Bin`
@@ -71,6 +90,8 @@ The `F2` key will begin renaming a selected file. You can also begin renaming a 
 
 Recommended: `Show File Extensions`
 
+### Creating New Files
+
 #### How do I make a new directory?
 The fastest way is to `right-click` an empty area in the `explorer` window to bring up the `context-menu`, go to the `New` submenu and select `Folder`. The `directory` will be created and immediately enter naming mode. Hit the `Enter` or `Esc` key to just use the default name "New Folder" or type in a more descriptive name first. 
 
@@ -103,6 +124,9 @@ In some applications, like Paint, "New File" (`ctrl+n`) will not immediately cre
 Create a new text document and change the extension from `.txt` to your desired extension, say, `.py` (for a python script). New text documents will always be completely blank
 
 {{TODO: Gif}}
+
+### Oops
+We all make mistakes. It would be crazy if there weren't ways to quickly correct them
 
 #### Oops I accidentally began renaming a file. How do I stop without changing the file name?
 Hitting the `Esc` ("escape") key will cancel the renaming action and leave the `file` unchanged. Many actions can be cancelled with the escape key. 
