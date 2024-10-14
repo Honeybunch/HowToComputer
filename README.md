@@ -3,7 +3,7 @@ A page you can send your friends so they learn how to use the most powerful devi
 
   You've managed to find this page so we hope you understand at least some basic computing concepts. You know how to move the mouse, open a program, browse the web and use the keyboard at least enough to play Fornite or something. But you can do more. The personal computer is a marvel of human engineering and an extremely powerful tool for enacting your will on the world! It has unparalelled creative potential in almost every conceivable field in a way that mobile phones simply cannot match. While you certainly *can* edit video on a phone it is *much* faster to do so on a personal computer. Just from an ergonomics perspective smartphones cannot compete with a desktop or laptop computer. So this page is aiming to be a reference for folks new to driving a personal computer and want to be able to get their shit done faster. Even if you hate computers I hope you at least appreciate the prospect of getting your work on them done faster so you can get away from the cursed machine. 
 
-## Navigagtion
+## Navigation
 ---
 
 ### How do I manage files
@@ -11,20 +11,109 @@ With `Windows Explorer` AKA `Explorer` AKA `explorer.exe` the default windows fi
 
 {{TODO: Screenshot}}
 
-#### `Left-click` a `file` once to select it
-With a file selected:
-  * The `Enter` key will open the file as if you had `double-clicked` it
-  * The `delete` key will to move it to the `Recycle Bin`
-  * The `F1` key will begin renaming the file. You can just start typing a name and then hit `Enter` to save it or hit `Esc` to cancel and leave renaming mode
-{{TODO: Screenshot}}
+#### How do I select a file?
+`left-click` the `file` once to `select` it
 
-#### `Double-click` a `file` to open it in an associated application
-That's really it
+{{TODO: Gif}}
 
-#### `Right-click` a `file` to open the `context-menu`
-This is a fast way to perform some actions on a file without having to open an application beforehand.
-A file's extension also associates exactly which items appear in this menu. An image file will have options for rotating that a text file has no use for. 
-{{TODO: Screenshot}}
+#### How do I open a file?
+`left-click` the `file` twice (known as `double-clicking`) to open the `file` with its default application. Text files will open in Notepad, image files will open with the Photo Viewer, etc.
+
+{{TODO: Gif}}
+
+#### How do I select multiple files?
+`left-click` and drag an area in the window without a file and drag to create a selection bounds, a box that will `select` every file within it when you release the `left-click`
+
+{{TODO: Gif}}
+
+#### How do I delete a file?
+The `delete` key can be used to move all currently selected files to the `Recycle Bin`
+
+{{TODO: Gif}}
+
+#### How do I move a file?
+Open an `explorer` window to the directory that you want to move your file to.
+
+With one or more files `selected`, `left-click` on one of the files and drag the mouse cursor to your other window. Release the left mouse button to "drop" your selected files into the target directory.
+
+{{TODO: Gif}}
+
+#### How do I cancel moving files?
+You changed your mind and don't actually want to move those files but you've already begun dragging them. Your finger is holding down the left mouse button but you don't want to actually move anything! Simply hit the `Esc` key to cancel the operation and escape that sticky situation. Even if you're still holding down the left mouse button you can safely release it without moving any files.
+
+{{TODO: Gif}}
+
+#### How do I move a file without opening another explorer window?
+Select the files you want to move and use the `ctrl+x` chord to "cut" the files. Then navigate to the directory you want to move files to and use the `ctrl+v` chord to "paste" the files. When you paste the original files will be deleted. The files you originally cut will still be in your clipboard, you can paste them again somewhere else with the same `ctrl+v` chord.
+
+{{TODO: Gif}}
+
+#### I hit `ctrl+x` but I changed my mind, how do I undo the cut operation?
+The `Esc` key will cancel the cut operation. The file will no longer be in your clipboard and will not be able to be pasted with `ctrl+v`. The file will not be deleted or moved.
+
+{{TODO: Gif}}
+
+#### How do I rename a file?
+The `F1` key will begin renaming a selected file. You can also begin renaming a file by `left-clicking` on it twice; not fast enough to `double-click` it and open it but fast enough to actually begin renaming. This sucks and is easy to do accidentally. The `F1` key seems out of the way but is much more precise.
+
+{{TODO: Gif}}
+
+Recommended: `Show File Extensions`
+
+#### How do I make a new directory?
+The fastest way is to `right-click` an empty area in the `explorer` window to bring up the `context-menu`, go to the `New` submenu and select `Folder`. The `directory` will be created and immediately enter naming mode. Hit the `Enter` or `Esc` key to just use the default name "New Folder" or type in a more descriptive name first. 
+
+{{TODO: Gif}}
+
+#### How do I make a new text file?
+`right-click` an empty area in the `explorer` window to bring up the `context-menu`, go to the `New` submenu and select `Text Document`. The text file will be created and immediate enter naming mode. Hit the `Enter` or `Esc` key to just use the default name "New Text Document" or type in a more descriptive name first. 
+
+{{TODO: Gif}}
+
+#### How do I make a new file other than a text document?
+Applications can add their own items to the `New` section of the `right-click` `context-menu`. E.g. if you have Microsoft Word installed you will have the option to create a new Word document.
+
+{{TODO: Gif}}
+
+#### How do I make a file other than a text document that isn't in the context menu?
+Applications normally contain a `file menu` in the top left that contains file operations. Select `new` from this menu to get a `dialog` for naming and placing a new file that the application can handle. The default contents of the file are determined by the application.
+
+{{TODO: Gif}}
+
+The `ctrl+n` chord will instruct the current application to create a new file, similar to using the `file menu`. 
+
+{{TODO: Gif}}
+
+In some applications, like Paint, "New File" (`ctrl+n`) will not immediately create a new `file` but instead create a blank canvas. The `Save` `file-menu` item or `ctrl+s` chord will prompt you to actually save the `file` to `disk`.
+
+{{TODO: Gif}}
+
+#### How do I make a totally blank file of a given type?
+Create a new text document and change the extension from `.txt` to your desired extension, say, `.py` (for a python script). New text documents will always be completely blank
+
+{{TODO: Gif}}
+
+#### Oops I accidentally began renaming a file. How do I stop without changing the file name?
+Hitting the `Esc` ("escape") key will cancel the renaming action and leave the `file` unchanged. Many actions can be cancelled with the escape key. 
+
+{{TODO: Gif}}
+
+#### Oops I accidentally moved/deleted a file I didn't mean to. How do I undo it?
+The `ctrl+z` chord will undo the previous operation. Use this to move files back to where they were, restore a file to the previous name or bring a file back from the `Recycle Bin`.
+
+{{TODO: Gif}}
+
+You can also go to the `Recycle Bin` on your `Desktop`, `double-click` it to open it and move the `file` to a new `directory` to un-delete it. 
+
+{{TODO: Gif}}
+
+`Right-clicking` the file will bring up a `context-menu` with a `menu-item` titled `Restore` which will put the `file` back to where it was before it was deleted. 
+
+{{TODO: Gif]}
+
+## Details 
+
+Sometimes the devil is around here 😈
 
 ### What actually *is* a file anyway?
 
