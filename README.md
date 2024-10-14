@@ -25,7 +25,7 @@ Quick Definitions:
 #### How do I navigate to a new directory?
 Select the `directory` and hit `enter` to make your selection the new current directory
 
-{{TODO: Gif}}
+![open_directory](https://github.com/user-attachments/assets/5db0243c-768f-47e9-9268-5dacd48463c5)
 
 #### How do I open a directory in a new explorer window?
 `ctrl+enter` will open the selected `directories` in their own `explorer` window
