@@ -9,7 +9,7 @@
 ## How do I manage files
 With `Windows Explorer` AKA `Explorer` AKA `explorer.exe` the default windows file explorer
 
-{{TODO: Screenshot}}
+![image](https://github.com/user-attachments/assets/2f9a3060-3555-4c3e-b2e8-a61a7e7f30cb)
 
 Quick Definitions:
  * `file` - A basic unit of storage on a computer. It can contain a poem, a program, a picture of a cat or anything else you would find on a computer.
