@@ -63,12 +63,12 @@ or
 #### How do I find a directory by name
 From anywhere just hit the `Win` (Windows / Super) key to open the start menu and begin typing. Windows does try to index your files so you can search them from here. 
 
-{{TODO: Gif}}
+![Searching from the start menu](https://github.com/user-attachments/assets/a29b5ea7-5c3c-4cda-8a52-03fe0ac3c20e)
 
 #### How do I find the file I'm looking for in a directory by name?
 With an `explorer` window in focus you can just begin typing the name of the `file` you're looking for and `explorer` will automatically begin navigating to files with names that start with the letters you've typed
 
-{{TODO: Gif}}
+![Typing to sort through files in a folder](https://github.com/user-attachments/assets/e56e84fd-37c0-4265-a1e2-3678a136699f)
 
 #### How do I navigate to an arbitrary directory by path?
 In any explorer window hit `ctrl+l` to begin editing the path to the current `directory`. Just start typing in the path or begin editing the path. See `Text Editing` {{TODO: Create and link section}} for more
