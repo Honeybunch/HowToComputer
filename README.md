@@ -62,7 +62,7 @@ The `Esc` key will cancel the cut operation. The file will no longer be in your 
 {{TODO: Gif}}
 
 #### How do I rename a file?
-The `F1` key will begin renaming a selected file. You can also begin renaming a file by `left-clicking` on it twice; not fast enough to `double-click` it and open it but fast enough to actually begin renaming. This sucks and is easy to do accidentally. The `F1` key seems out of the way but is much more precise.
+The `F2` key will begin renaming a selected file. You can also begin renaming a file by `left-clicking` on it twice; not fast enough to `double-click` it and open it but fast enough to actually begin renaming. This sucks and is easy to do accidentally. The `F2` key seems out of the way but is much more precise.
 
 {{TODO: Gif}}
 
